@@ -15,3 +15,12 @@ footer {
 body {
   font-family: Lexend;
 }
+#examplemessage1 label {
+  position: absolute;
+  top: 0;
+  resize: none;
+
+  overflow: scroll;
+  white-space: pre-wrap;
+}
+
