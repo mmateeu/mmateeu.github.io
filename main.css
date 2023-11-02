@@ -19,7 +19,6 @@ body {
   position: absolute;
   top: 0;
   resize: none;
-
   overflow: scroll;
   white-space: pre-wrap;
 }
